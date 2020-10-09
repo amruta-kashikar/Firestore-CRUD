@@ -8,4 +8,6 @@ div.validation-error{
     font-size: 80%;
     color: #dc3545;
 }
-
+table.table-hover tbody tr:hover{
+    cursor: pointer;
+}
